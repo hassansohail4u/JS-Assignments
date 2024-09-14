@@ -211,3 +211,5 @@ initialValuehtml.innerHTML = "Initial Value : " + initialValue++
 var afterIncrementhtml = document.querySelector("#after-increment-html")
 var afterIncrement = initialValue
 afterIncrementhtml.innerHTML = "Value after increment is : " + afterIncrement 
+
+var hassanRaf = "hello"
